@@ -8,19 +8,17 @@ added. An infinite-scroll that actually works and super-simple to integrate!
 
 ## Install
 
-Yarn:
-
 ```bash
 yarn add react-infinite-scroll-observer
 ```
 
-NPM:
+or
 
 ```bash
 npm i react-infinite-scroll-observer
 ```
 
-How to import:
+How to import
 
 ```typescript
 import { InfiniteScrollObserver } from 'react-infinite-scroll-observer';
