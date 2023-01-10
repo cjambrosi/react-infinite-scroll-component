@@ -8,9 +8,7 @@ added. An infinite-scroll that actually works and super-simple to integrate!
 
 ## Install
 
-```bash
-yarn add react-infinite-scroll-observer
-```
+> yarn add react-infinite-scroll-observer
 
 or
 
