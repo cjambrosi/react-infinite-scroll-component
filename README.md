@@ -6,6 +6,16 @@
 A component to make all your infinite scrolling woes go away with just 4.15 kB! `Pull Down to Refresh` feature
 added. An infinite-scroll that actually works and super-simple to integrate!
 
+```bash
+yarn add react-infinite-scroll-observer
+```
+
+Or
+
+```bash
+npm i react-infinite-scroll-observer
+```
+
 ## Install
 
 ```bash
